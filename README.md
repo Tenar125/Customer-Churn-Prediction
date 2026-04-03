@@ -69,5 +69,4 @@ Jupyter Notebook
 How to Run
 
 Clone the repository:
-
-git clone <your-repo-link>
+git clone <https://github.com/Tenar125/Customer-Churn-Prediction>
