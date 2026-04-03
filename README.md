@@ -64,7 +64,6 @@ Seaborn
 
 Jupyter Notebook
 <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/18883088-418d-4b17-b204-217a58b18925" />
-
 <img width="542" height="504" alt="image" src="https://github.com/user-attachments/assets/c4e6d625-bb99-43c8-b98f-1c64a8212fee" />
 
 How to Run
@@ -77,7 +76,5 @@ Open the notebook:
 
 jupyter notebook task_2.ipynb
 
-
-IsActiveMember: Whether the customer is active
 EstimatedSalary: Customer’s estimated salary
 Exited: Whether the customer has churned (1 = yes, 0 = no)
