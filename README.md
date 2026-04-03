@@ -71,10 +71,3 @@ How to Run
 Clone the repository:
 
 git clone <your-repo-link>
-
-Open the notebook:
-
-jupyter notebook task_2.ipynb
-
-EstimatedSalary: Customer’s estimated salary
-Exited: Whether the customer has churned (1 = yes, 0 = no)
